@@ -2,6 +2,7 @@
 个人自定义网址导航
 
 # 介绍
+1. 环境：windows
 1. 服务器：apache-tomcat
 2. 语言：纯原生html、js、css 
 
